@@ -4,4 +4,5 @@ Todo.methods(['get', 'post', 'put', 'delete']); //registrando requisicoes
 
 Todo.updateOptions({runValidators: true});
 
+
 module.exports = Todo;
